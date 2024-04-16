@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @Baojun-CHE, my Chinese name is 车保骏.
-- 👀 I’m a undergraduate major in mathematics.
--     I am now in Chern Class in School of Mathematical Sciences, Nankai Univercity, Tianjin, China. 
-- 🌱 I’m currently learning optimization methods, machine learning and so on.
+-
+- I’m a undergraduate major in mathematics.
+- I'm now in Chern Class in School of Mathematical Sciences, Nankai Univercity, Tianjin, China. 
+- I’m currently learning optimization methods, machine learning and so on.
+-
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
