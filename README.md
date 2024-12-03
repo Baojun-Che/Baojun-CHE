@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Baojun-CHE, my Chinese name is 车保骏.
 -
-- I’m a undergraduate major in mathematics.
+- I’m an undergraduate major in mathematics.
 - I'm now in Chern Class in School of Mathematical Sciences, Nankai Univercity, Tianjin, China. 
-- I will pursue a PhD major in computational mathematics at School of Mathematics Science,Peking University in 2025.
+- I will pursue a PhD major in computational mathematics at School of Mathematics Sciences, Peking University in 2025.
 
 -
 - 📫 How to reach me 1833437064@qq.com
