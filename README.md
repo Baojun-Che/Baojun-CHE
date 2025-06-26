@@ -1,14 +1,9 @@
-- 👋 Hi, I’m @Baojun-CHE, my Chinese name is 车保骏.
--
-- I'm now an undergraduate student in Chern Class at School of Mathematical Sciences, Nankai University.
-- I'll pursue a Ph.D. degree major in computational mathematics at School of Mathematics Sciences, Peking University in 2025.
+# Hi there, I'm Baojun Che (Chinese name: 车保骏) 👋
 
--
-- 📫 How to contact me 1833437064@qq.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I'm a Ph.D. candidate in **Computational Mathematics** at [Peking University, School of Mathematical Sciences](https://www.math.pku.edu.cn/) (starting from 2025). Before, I received my Bachelor's in Mathematics at [Nankai University, School of Mathematical Sciences](https://math.nankai.edu.cn/) in 2025.
 
-<!---
-Baojun-CHE/Baojun-CHE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+My work currently revolves around: Bayesian inverse problems,sampling methods, uncertainty Quantification...
+
+
+Feel free to explore my repositories or reach out for academic collaboration!
